@@ -1,0 +1,7 @@
+{   "DATA_DIR": "E:/data/JPX Tokyo Stock Exchange/train_files/",
+    "SUPP_DIR": "E:/data/JPX Tokyo Stock Exchange/supplemental_files/",
+    "ROOT_DIR": "E:/data/JPX Tokyo Stock Exchange/",
+    "CACHE_DIR": "E:/jpx_cache/",
+    "MODELS_DIR": "./checkpoints/",
+    "PREPROCESS_DIR": "./preprocessing/",
+    "ENV": "train"}
